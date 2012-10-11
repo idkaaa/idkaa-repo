@@ -1,0 +1,4 @@
+idkaa-repo
+==========
+
+yay github
